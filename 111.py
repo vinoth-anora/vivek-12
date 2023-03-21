@@ -20,11 +20,6 @@ for i in l:
         max=i
 print(max)
 print(i)
-
-
-
-
-
 print(i)
 
 
