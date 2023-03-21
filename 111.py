@@ -18,8 +18,4 @@ max=l[0]
 for i in l:
     if i>max:
         max=i
-print(max)
-print(i)
-print(i)
-
 
